@@ -1,0 +1,32 @@
+#i1{
+	text-align: center;
+	color: blue;
+}
+h1{
+	font-family: 'Bangers', cursive;
+}
+a{
+	font-family: 'Titillium Web', sans-serif;
+}
+h2{
+	font-family: 'Titillium Web', sans-serif;
+	text-align: center;
+	color: blue;
+
+}
+img{
+	
+}
+nav{
+	text-align: center;
+	font-size: 24px;
+}
+section{
+	text-align: center;
+}
+div{
+	margin-left: 10px;
+}
+body{
+	text-align: center;
+}
